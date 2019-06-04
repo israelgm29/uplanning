@@ -1,0 +1,13 @@
+:host {
+      
+    ion-content {
+        --background: #f9f7f7;
+    }
+    
+    ion-list {
+        &.list-md {
+            padding: 0;
+        }
+    }
+    
+}
